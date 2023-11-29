@@ -10,4 +10,5 @@ content =>"
 	host*
 	identityFile /root/.ssh/school
 	PasswordAuthentication no
+	",
 }
